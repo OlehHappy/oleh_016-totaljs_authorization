@@ -1,0 +1,19 @@
+{
+  "name": "oleh_016-totaljs_authorization",
+  "version": "1.0.0",
+  "description": "Please use: authorization module for total.js: https://github.com/totaljs/modules/tree/master/auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehHappy/oleh_016-totaljs_authorization.git"
+  },
+  "author": "Oleh Daybov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlehHappy/oleh_016-totaljs_authorization/issues"
+  },
+  "homepage": "https://github.com/OlehHappy/oleh_016-totaljs_authorization#readme"
+}
